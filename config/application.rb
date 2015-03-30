@@ -30,7 +30,3 @@ module PagseguroTransparentCheckout
     # config.i18n.default_locale = :de
   end
 end
-
-puts "app:"
-puts ENV['PAGSEGURO_EMAIL'].inspect
-puts
